@@ -17,6 +17,8 @@ Después, abre `http://localhost:8000`.
 - El contenido y la estructura están en `index.html`.
 - Los estilos y puntos de adaptación responsive están en `styles.css`.
 - La navegación móvil, el estado de sección y las transiciones están en `script.js`.
+- El CV descargable está en `jose-cabrera-martin-cv.pdf`.
+- La versión inglesa está en `jose-cabrera-martin-cv-en.pdf`.
 
 ## Publicación
 
