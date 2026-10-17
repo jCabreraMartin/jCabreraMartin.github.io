@@ -19,6 +19,7 @@ Después, abre `http://localhost:8000`.
 - La navegación móvil, el estado de sección y las transiciones están en `script.js`.
 - El CV descargable está en `jose-cabrera-martin-cv.pdf`.
 - La versión inglesa está en `jose-cabrera-martin-cv-en.pdf`.
+- La página del juego Bloqora está en `bloqora/index.html` y su política de privacidad en `bloqora/privacidad.html`. Google Play enlaza a esa URL: si se mueve, hay que cambiarla en Play Console.
 
 ## Publicación
 
